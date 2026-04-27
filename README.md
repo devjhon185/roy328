@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full-Stack+(Backend-Heavy);Python/PHP+%7C%7C+React+%7C%7C+Vue+%7C%7C+Typescript+%7C%7C+Web3+%7C%7C+Node;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="roy328">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full-Stack+(Backend-Heavy);Python/PHP+%7C%7C+React+%7C%7C+Vue+%7C%7C+Typescript+%7C%7C+Web3+%7C%7C+Node;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="devjhon185">
 </p>
 <hr/>
 
@@ -34,10 +34,10 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roy328&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=devjhon185&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 Github Stats
 
-<img align="left" alt="roy328's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roy328&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
-<img align="right" alt="roy328's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy328&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+<img align="left" alt="devjhon185's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devjhon185&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
+<img align="right" alt="devjhon185's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjhon185&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
